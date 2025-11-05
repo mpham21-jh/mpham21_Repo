@@ -25,4 +25,7 @@ Details of how it came about, motivation, challenges, problem statement, intende
 credits
 
 # Modifying in repo
+add file, add requirements, add content, make commit statement
+upload a file
+
 
